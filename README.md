@@ -8,5 +8,5 @@ This project analyzes data related to belly button biodiversity. An interactive 
 
  Here is the dashboard:
  
- <git hub page.png>
+ https://github.com/alejandra-dahl/alejandra-dahl.github.io/blob/eff3465948a00ee95132879cec268a9e036b1847/git%20hub%20page.png
  
